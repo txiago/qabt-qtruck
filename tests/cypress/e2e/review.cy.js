@@ -16,7 +16,7 @@ describe('Avalidações', ()=> {
             latitude: '-23.584642248123703',
             longitude: '-46.67472571134568',
             name: 'Super de Quico',
-            details: 'Sucos de alta qualidade direto do saquinhoo.',
+            details: 'Sucos de alta qualidade direto do saquinho.',
             opening_hours: 'das 14h às 20h',
             open_on_weekends: false
         }
